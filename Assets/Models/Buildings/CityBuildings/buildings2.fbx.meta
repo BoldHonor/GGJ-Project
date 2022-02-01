@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Building
-    second: {fileID: 2100000, guid: f405fbad7a1dff04993fe896dce5e4df, type: 2}
+    second: {fileID: 2100000, guid: d4d3b8458ed684e4a938ee5a8ac72819, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
